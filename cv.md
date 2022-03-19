@@ -1,15 +1,22 @@
 
-   # Павел Третьяков
+   # Pavel Tretyakov
    ### [telegram](https://t.me/user8)
+   ### Discord - Pavel (@igroan)
 
- По образованию инженер. Работаю системным администратором. Решил изучить что то новое.   
+ By education engineer. I'm a system administrator. Decided to learn something new.
     
- В школьной программе изучил HTML и Pascal.
+ Studied HTML and Pascal in school curriculum. 
    
 
-    Примеры кода
+ ```
+    function multiply(a, b){
+  return a * b
+ }  
+     
+ ```
 
-    Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
+  English level, according to my opinion - B1
 
-    Образование (включая пройденные курсы и тренинги)
-    Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+[CV](https://igroan.github.io/rsschool-cv/cv)
+
+    
