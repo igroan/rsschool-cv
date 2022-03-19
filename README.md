@@ -1,1 +1,1 @@
-# rsschool-cv
+https://igroan.github.io/rsschool-cv/cv
