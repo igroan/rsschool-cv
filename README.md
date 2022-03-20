@@ -1,1 +1,1 @@
-https://igroan.github.io/rsschool-cv/cv
+https://igroan.github.io/rsschool-cv/
